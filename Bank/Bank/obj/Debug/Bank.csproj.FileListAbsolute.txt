@@ -1,0 +1,7 @@
+c:\users\садыковаа\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\садыковаа\source\repos\Bank\Bank\bin\Debug\Bank.exe
+c:\users\садыковаа\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\садыковаа\source\repos\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\Bank\Bank\obj\Debug\Bank.exe
+c:\users\садыковаа\source\repos\Bank\Bank\obj\Debug\Bank.pdb

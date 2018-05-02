@@ -1,0 +1,7 @@
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\bin\Debug\AcyncMethods.exe.config
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\bin\Debug\AcyncMethods.exe
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\bin\Debug\AcyncMethods.pdb
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\obj\Debug\AcyncMethods.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\obj\Debug\AcyncMethods.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\obj\Debug\AcyncMethods.exe
+C:\Users\СадыковаА\source\repos\AcyncMethods\AcyncMethods\obj\Debug\AcyncMethods.pdb
